@@ -1,3 +1,3 @@
 # FirstProject
-This is my first Project for learn Git
+This is my first Project for learning Git
 Author Pranshu
